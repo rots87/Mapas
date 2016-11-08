@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2cc51a01de38d83ebb99c20baca984e6ed9ae0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_b846df09be37b81ce9c1ae54c34fcb5ffd632e2c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.0_32f1d4da66d314973cc42092a3d724f8b68c913f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc44fc386b80c8c979bd176d0a3f6286d9d02afe">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c977611c90eb3a8915c48c9cca6dafbd25f101d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_13d6d56469e2b9eea405cfd3bd1ef1772741771d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.8.0_6add096ea5ebae5c8868c7371160cc38aa875ef8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_0554e82e70610dcedbdb4771056745647596480b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.8.0_8c9ba3d7b714fe7ec802d1e4c37277ecab8a2266.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_890a38a70db1343619e76b263e304a872e34eb8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_010062fb173216279a2baa4c0f792a4b61848bdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_dbae5f6abad4c531dcc3e9e6f2f2e613d943fb28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.0_74c1bac9caa8714476f4ac7a1da7ce365d34e6d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_95cd1c1d77f47eb7c3d19c0225999f995fe86483.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_5889a5fa959a6dc5e2616f9cfc85069d3a582e62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.0_808bbe2c815df2bf63568ec1521816f80bf40c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_fd79936a8ff85ce2c39cd75a530ac8cb89da2fba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.0_dfc6bc93a9a9d8f83836aad6a12fcb613dc884f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_7f6109ea5ac54238b3b77a24eadf3a8aad039524/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-9.8.0_e0d46e94178407d51df8c02a17ec17b223037118.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c93a9813fac32b8c6b6510ab2cceba4ffb0ebee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_0e1e04c6df86441fe5fb3b791f026448d7659d20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_aeaf3c936d44c5487daf3c32d262262d56ec7fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_dbc5589c8c7dc07108e4135c402f7a5f694f25f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.0_98f65290feac1c38e229c1cc103cb52add0f1be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_9673275525a7a295a86b4ca2d0c87ed134f617d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_00e68c6816cb3a2b5885c784b5d9e81e8ad9026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_724e86b604818e19f336cb67c845e2ea96ed1a65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_0c70278adb534dabef679cf3ff08d03bff80f51e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_f650797cb33746116a8a862fdd663a01ec03f22b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.0_be8e02547722239d1434b663aba07fb7fcbc025d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.8.0_35f05b53bf1de65c29e3f89a0320e3077f5c114b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_5712db43e39539e9da7f02405c264b425ff78189/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_057c688e182a7e6d80fbd64436b3ef5ed5d1e646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.8.0_b667987d69befaadd329f58b8154cbdb0127c8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.8.0_5a9ea9c7d615d09e65bdaa0ba6e29cf7483a4451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_485962e803b3342921e687af00a66e6947e7c9e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_76aebe20fe773a62f9af318ebb9c32b4ddaeaef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_2cc51a01de38d83ebb99c20baca984e6ed9ae0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_74b5a536ab4436e38bb10e80a3c6bb90047a3f3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_e6144d8fa773c99e598c47544b0c794a1ecc6156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_6a65da2f6f448c4f85db6d3ec47bbe29a9560778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.0_282d09d16513f17d531bff6edaac0d621f709199/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bc68acc1afe34de844a20b244525996224a61ff3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_846e5b8d8310b57d6c44cfbaa8d954c2508c5684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_7025b62744f233cdfad50e9faf03ddbe53881a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.8.0_5f6cda5650dd92e10c053ba7dba2fc1c64af123a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_67a3a2d87c478a3ace13ceece7ed92085982ea0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_9d2ce2fc542e1d501c5e6e41ae2032ec1c214e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.8.0_bd9817b86a65da0428b68612c3a1530e859ad838.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.0_532467b94adbee02e7aea1822c148495387e0b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_68e6b5c8b519e1806e2a61152e53d9bed7065249.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_7645ef2d6e7a81929af6deb1d4bd92695ce53c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_e3ea9806d6bb8c809ceb385d469612b96570b6c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.0_4f0e3131f892d1d6f8a67d54f11a1e6a07edaef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.8.0_ea79bf5220441cc59ca47e56026814a80eb15201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.8.0_c22a6d97748d66979f42fc6046902d06c6e58fc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.0_d840fb2b316f79f272f609b162503a6e43b9cce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_c93a9813fac32b8c6b6510ab2cceba4ffb0ebee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_ffdf16060fe16f6ad4720b6cf16368492268bbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_388f9cece6b88d478dd3e2566cef4ec98d0b5365.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.0_352d3ea0b9dfa3f2ba0822788500568ed9a87edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.0_0c595d6a8d5664634feb8429cb4f0945fd3b2be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.8.0_cadd92c40ee94ce225f494e24bebe9ac349b1d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_e11acfee22e8b5b4eefeb45aa20155e439d58090.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.0_b4cdb073877f38b50f8c3ab7802afe836826c098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_ff6f697dc1dad2e3ca221ae32552b847c71b6910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.0_08a216a81344b676c3ddf2d6d63f0578b9f20258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_04c690640c378a29d40c6f762a58a8c5c9ee966e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_34d8bec2b64bee8044260f083142d82eade1134a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_f5908801994527a21439c2cf0863f59128073d3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ad40099500997978ae96a16b7983c459e44ead4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_5c087986717bb88d8ccad7fd681ca2d9759cd446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_da813583cfbf56db2c20b76686e73cba8f4eb7bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bc68acc1afe34de844a20b244525996224a61ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.0_12b698040be1278de66e4a7fa74d02936a816008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_057c688e182a7e6d80fbd64436b3ef5ed5d1e646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.0_e941e89e174092fec822e9261408a2eaf00d61a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_4c2251d93e173d0159bc807236b689768ac1a5f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_146a159e8700aa6e03ee7395d1fedfa0a48da853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_67a3a2d87c478a3ace13ceece7ed92085982ea0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_2e61de5973082f1de6f70361bc7e14535dbf1c7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.8.0_eed6b6cd9d7628b78a8a09da44453fea084ea355.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.0_7ff2ca8f75d7a2ccbb072f874ae7869281d57593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.0_7403a112ebf4c5435429146f8ddd0b113f076d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.8.0_a07ceea8dc59ef0dcd0f114b84ecbf99179bec50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2872ddb723077dc0f343ca591a8690507a01201">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf8e6a7b36fcb1113d4e7cfd50a33c9100307379/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.8.0_575dde7340b3700876b81fc90a49ea18e8e8f3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_b2571489b39fa139a0ec8de189a9ec68cf49751a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_e3ea9806d6bb8c809ceb385d469612b96570b6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.8.0_1b54e448b9c94fdbd69cdb224db0456466b9e703.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_3fbe8ed4d7869ff5f8bcbacad8851bc0a026f9cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.0_75075b04720de47d09d45f0e8b66e00acff288d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.0_da7ba0ab71a2703eb1068ca975519feb0d78b304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.0_542f9def13a31ce9dce588605a5de03aecc4a5f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.0_243f664d34b5ddd0c85dce9d0e84143db3c77412/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.8.0_d19611e162d6585600cc74ee56ac64dbcafb4237.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.0_591dc98583c0aede0fb4ac7ac111dee28e456cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_d445539573c9fdc1b8e5d59a81f41dc5474ef816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ad40099500997978ae96a16b7983c459e44ead4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.8.0_3883faacccdfa1eedc5dd9471926e3192ee72fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_34d8bec2b64bee8044260f083142d82eade1134a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.8.0_675ed931f2f462b20194b55014e3f3aba14515c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_94eebc4e28108b06df6f265d8663fab6f0d0ee1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.8.0_2c66367a3e8cb5f9e01ca8b00bcb48daefac6dcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_02219756d396373476edc081fb6e4b67c3de744c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.8.0_1e739126dde0aec0f9d28c66605b1f916ba66a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_b2d611f773d68b887b1f2958c0a8289bd99398a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.0_8493530ddd91302c82d0c6d8633c4452bdfc8d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_010062fb173216279a2baa4c0f792a4b61848bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.0_89269900ee4dba7055db468ddc4146fe3692590f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_8359cf90904e669117c3e45ad6791ab211fca46c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_b4fa0a44449ec3ed3c8df2bad69a1784522c049c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_95cd1c1d77f47eb7c3d19c0225999f995fe86483/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.8.0_3719365a3673674952e38f73e3dd3d4905bc026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_890a38a70db1343619e76b263e304a872e34eb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.8.0_2b15131d31ba7053321d9f97cbd1c64e9f1addbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_f2666276f84533dfac946a1dcee6684e59fe9d45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_d9702b2deb85edf0d48c7634100c0481dbd02056/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_4036e086c4d0952b45237c67164ff454e9673af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_2e61de5973082f1de6f70361bc7e14535dbf1c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_0554e82e70610dcedbdb4771056745647596480b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-9.8.0_9adbe58eddc061fd3bfe00915ab270860eac145a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.8.0_56989d8d405744abdc9ee42d54e1c3ac78436864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.8.0_064d0a7f095bde651745528ec8fdf9f99e5a7fc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_dbc5589c8c7dc07108e4135c402f7a5f694f25f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_aeaf3c936d44c5487daf3c32d262262d56ec7fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.8.0_f9e18e41e2601643e8889c1d4e7d426bff9ec29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_6c201beca9b1644f6aed6e726d48b5393f172290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.8.0_f522c9308bd1ac2b786f29b0368c01879426bcc7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_3b3599bd5e1f9131bb07658f2b385fddb6a11e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_9673275525a7a295a86b4ca2d0c87ed134f617d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.8.0_464556459b381704257c79d5037d88c57d035720.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_eb5fc2caaaa128207491e097f1e76deeda8f127d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_00e68c6816cb3a2b5885c784b5d9e81e8ad9026e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_85a6a8ac0445137bced4204fdd716861ec417a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/rots/Desarrollo/Coursera-DesarrolloAplicacionesMovilesAndroid-master/MisMapas2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_5712db43e39539e9da7f02405c264b425ff78189.jar" />
+    </item>
+
+</items>

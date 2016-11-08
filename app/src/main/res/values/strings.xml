@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="texto1">La Libertad</string>
+    <string name="texto2">MultiPlaza</string>
+    <string name="texto3">Puerta del Diablo</string>
+    <string name="texto4">MetroCentro</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
